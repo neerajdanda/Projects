@@ -1,11 +1,11 @@
 # Projects
 # 1. News Classification System #
 The purpose of this project was to filter news based on the essence of the news headline using two deep learning algorithms i.e Hierarchical Attention Networks (HAN) and Bidirectional Encoder Representations from Transformers (BERT). Algorithm-The Classification would make use of a Natural Language Processor which will include a sequential entry of news headlines through Neural network layers through which an output score would be a probability of the news headline in each 40 categories. For the frontend, a website was designed to scrape news from a website and display multiple pages of all the trending news present in that website. Moreover, two options were given to classify news in any one of the above-mentioned algorithms and connected the UI frontend with the AI model using Flask, and imbued technical experience of working with Python and mathematical models.
-# 2. E-Commerce WebApp Amazon.com#
+# 2. E-Commerce WebApp Amazon.com #
 This project is identical to an e-Commerce website. The webapp displays a product page for the user to purchase the item. There will be a summary of purchases at the time of check out before proceeding to the payment option.
-# 3. City Nursing Home Website#
+# 3. City Nursing Home Website #
 The key idea of this project was enabling the users to book an appointment with a specialist (cardiologist, physician, OBS/Gynecologist) doctor at the hospital. The database was procured from the hospital’s website and managed by incorporating phpMyAdmin. In case an appointment slot was booked for a particular doctor by a patient, then that booking slot was made unavailable for all other users to preserve consistency. Further, we equipped the site to maintain accounts for each patient. The administrators could then view the medical history and appointment slots, as we had included features like time, history, doctor, etc. to link the client, server, and interface files. This project was pivotal to ingraining technical expertise in HTML5, CSS, and JavaScript.
-# 4. Airline System#
+# 4. Airline System #
 The project is an effort to provide a one-step solution to the customer with a system that can provide them with information regarding availability of flight tickets. The system provides a way to make ticket bookings for the customers. The availability of the flight tickets can only be updated by authorized airlines personnel, and hence it becomes easy for the Customer to select their ticket from the available flights. We have implemented Agile Methodology while designing the system. 
-# 5. Railway Reservation System#
+# 5. Railway Reservation System #
 The Railway Reservation System facilitates the passengers to enquire about the trains available on the basis of source and destination, booking of tickets, generating cost of order, and enquire about the status of the booked ticket using JAVA. It is the computerized system of reserving the seats of train seats in advance. It is mainly used for long routes. 
